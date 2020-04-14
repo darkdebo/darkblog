@@ -1,2 +1,2 @@
 # Welcome
-hello this is my first blog.
+dark's blog.
