@@ -31,6 +31,7 @@ Now to create a blog project in terminal type the following commands to initiali
 $ hexo init <folder>
 $ cd <folder>
 $ npm install
+
 ```
 Once initialized, here’s what your project folder will look like:
 .
